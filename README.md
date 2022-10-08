@@ -1,1 +1,3 @@
 # gradient_boosting_clustering
+Supervised learning which XGBoost is applied to requires labelled data. XGBoost can be applied to both classification problems and regression problems. It works with both binary and multi-class classification. The evaluation metrics usually used include: accuracy, AUC, and confusion matrix. 
+XGBoost refers to optimized gradient boosting machine learning library. It is very popular due to its speed and performance, core algorithm is parallelizable allowing it to be trained on lots and lots of data, consistently outperforms single-algorithm methods, and gives a state-of-the-art performance with ML tasks. 
